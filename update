@@ -1,1 +1,4 @@
-halo
+CREATE DATABASE ADSI;
+USE ADSI;
+
+CREATE TABLE SAMPAH (id_sampah CHAR (5), nama_sampah VARCHAR (90), warna_sampah VARCHAR (90), berat_sampah INT);
